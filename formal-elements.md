@@ -35,7 +35,8 @@
 *  השחקן נדרש להשתמש במקלדת או בעכבר על מנת לעוף
 * השחקן בעל התוצאה הכי גבוהה יהיה המנצח של המשחק.
   
-  ![SURVIVAL](https://user-images.githubusercontent.com/20986238/138885703-e4666a4a-4bbf-4e26-9960-e7d68442f4ef.png)
+   ![Capture](https://user-images.githubusercontent.com/63556870/141999648-88147971-86e2-4c16-aaff-fdb5fd26d54f.png)
+
 
 
 
