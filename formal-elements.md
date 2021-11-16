@@ -8,7 +8,7 @@
 
 המשחק מיועד לפלטפורמת המחשב, המשחק הינו עבור שחקן יחיד ובעתיד יורחב עבור מספר משתתפים. 
 
-לפירוט המלא יש ללחוץ [כאן](https://github.com/LeveI-Up/FlappyBird/blob/main/formal-elements)
+![WhatsApp-Image-2021-11-16-at-18 12 01](https://user-images.githubusercontent.com/63556870/142023191-ca78dbba-734d-4a3d-ae86-7d7a2007878d.png)
 ---
 
 
