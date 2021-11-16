@@ -1,6 +1,6 @@
 <div dir='rtl' lang='he'>
 
-# /////
+# The dragon's revenge
 **תפוס אותי אם תוכל!**
 
 ## מהות המשחק
