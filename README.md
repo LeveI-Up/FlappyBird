@@ -4,7 +4,7 @@
 
   המטרה היא להשאיר את הציפור באוויר למשך כמה שיותר זמן מבלי ליפול או להתנגש במכשולים. לחץ על מקש הרווח על מנת שהציפור תעוף.
   
-  ![SUR](https://user-images.githubusercontent.com/20986238/138876079-565b2769-31a7-4712-b4a6-f9f14cc39126.jpg)
+  ![Capture](https://user-images.githubusercontent.com/63556870/141999648-88147971-86e2-4c16-aaff-fdb5fd26d54f.png)
 
   לפירוט המלא יש ללחוץ [כאן](https://github.com/LeveI-Up/The-Last-Survivor/blob/main/formal-elements.md)
 
