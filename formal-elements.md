@@ -76,7 +76,8 @@
 
 * [Flappy Bird](https://flappybird.net/)
 
-![PUBG](https://user-images.githubusercontent.com/20986238/138427431-ddb0ba77-6343-42ca-ae7c-c88c4b58008f.png)
+![Flappy Bird](![screen480x480_i](https://user-images.githubusercontent.com/63556870/142019975-dda249a8-57b4-4925-b6fa-3edb985d2577.png)
+)
 
 * [Fortnite](https://www.epicgames.com/fortnite/en-US/home/)
 
