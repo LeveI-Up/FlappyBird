@@ -77,14 +77,6 @@
 ![screen480x480_i](https://user-images.githubusercontent.com/63556870/142019975-dda249a8-57b4-4925-b6fa-3edb985d2577.png)
 
 
-* [Fortnite](https://www.epicgames.com/fortnite/en-US/home/)
-
-![aa](https://user-images.githubusercontent.com/20986238/138427115-f8cfb5fc-6542-40ac-98a2-d0cfd8d608f5.png)
-
-* [Zooba](https://wildlifestudios.com/games/zooba/)
-
-![ZOO](https://user-images.githubusercontent.com/20986238/138427426-4822358c-2866-4a0d-868b-aa2c96be0857.png)
-
 בשונה ממשחקים דומים, המשחק יותאם לרב משתתפים כאשר המסך יפוצל בהתאם למספר המשתתפים.
 בנוסף, במשחק הזה יש התמקדות בכח המשיכה בהתאם למה שנלמד בשיעור.
 
